@@ -1,5 +1,25 @@
 /*stlying*/
 
+
+
+
+span:nth-child(even) {
+  color: orange;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One');
+
+h1{
+    font-size: 100px;
+    margin-top: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: -10px -11px 10px white;
+    color: darkturquoise;
+    font-family: 'Rubik Mono One', cursive;
+  
+}
+
 body {
-    background: rgba(198, 240, 131, 0.87);
+    background: black;
 }
